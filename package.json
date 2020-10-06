@@ -1,0 +1,23 @@
+{
+  "name": "2-factor-auth-web-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-kratz/2-factor-auth-web-api.git"
+  },
+  "author": "Robert Kratz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robert-kratz/2-factor-auth-web-api/issues"
+  },
+  "homepage": "https://github.com/robert-kratz/2-factor-auth-web-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
